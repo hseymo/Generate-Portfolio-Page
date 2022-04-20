@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0px;
+    background-color: lavender;
+}
+
+h1{
+    padding: 10px;
+    color: darkmagenta;
+}
+
+h2 {
+    padding: 5px;
+    color: magenta;
+}
+
+p {
+    padding: 30px;
+    color: darkmagenta;
+}
